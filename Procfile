@@ -1,0 +1,1 @@
+web: gunicorn sador_blog.wsgi --log-file -
