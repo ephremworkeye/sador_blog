@@ -41,7 +41,7 @@ SECRET_KEY = env.str('SECRET_KEY')
 
 
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['mysadorblog.herokuapp.com','127.0.0.1', 'localhost']
 
 
 # Application definition
